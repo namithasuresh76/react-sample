@@ -4,13 +4,7 @@ import { Product } from './Product';
 export class ProductList extends Component {
     constructor(props){
         super(props);
-        
-this.state = {
-    setState(count,state)
-       { count++;
-       console.log(count);}
-}
-
+ 
 
 
 
